@@ -1,6 +1,6 @@
-# leetcode
+# Python Solution for Leetcode problems
 
-## About me
+
 
 Hi, I'm Kiril and here you can find my solutions to the "leetcode" problems.
 
