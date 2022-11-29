@@ -1,4 +1,6 @@
 # leetcode
-Python Solutions for Leetcode
 
-My solutions to the "leetcode" problems can be found here
+## About me
+
+Hi, I'm Kiril and here you can find my solutions to the "leetcode" problems.
+
